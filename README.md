@@ -1,1 +1,1 @@
-# C-plus-plus(All compilation procedures)
+# C-plus-plus
