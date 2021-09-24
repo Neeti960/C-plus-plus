@@ -1,0 +1,2 @@
+In C++ program has the header file which stands for input and output stream used to take input with the help of “cin”
+ and “cout” respectively.So if we do not use iostream header file and use cout the preprocessor compilation shows error: cout was not declared. 
